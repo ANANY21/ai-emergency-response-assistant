@@ -1,0 +1,91 @@
+description,emergency_type,priority
+"A person has a small superficial cut on their finger.",Cut,Low
+"Small paper cut on thumb with minimal bleeding.",Cut,Low
+"Minor scratch from a kitten on the forearm.",Injury,Low
+"Superficial scrape on the knee after slipping on grass.",Injury,Low
+"Tiny splinter in index finger causing slight discomfort.",Injury,Low
+"Slight redness and minor pain after brief contact with warm steam.",Burn,Low
+"Small superficial abrasion on elbow with no active bleeding.",Injury,Low
+"Minor friction burn on palm from rope, skin intact.",Burn,Low
+"Shallow scrape on chin from shaving with minor spotting.",Cut,Low
+"Very small puncture on sole from a sterile sewing needle, no pain.",Injury,Low
+"Minor bump on knee after walking into a coffee table, no swelling.",Injury,Low
+"Mild finger prick from a thorn with negligible bleeding.",Cut,Low
+"Superficial paper cut on index finger, washed and cleaned.",Cut,Low
+"Light scratch on the back of the hand from brushwood.",Injury,Low
+"Slight ankle twinge while jogging, can bear full weight with ease.",Sprain,Low
+"Mild muscle soreness in shoulder after moving light cardboard boxes.",Injury,Low
+"Small graze on shin after bumping into a lawn chair.",Injury,Low
+"Minor nick on the earlobe while combing hair.",Cut,Low
+"Slight lip scrape from accidentally biting inside of cheek.",Injury,Low
+"Tiny glass scratch on palm, washed immediately, minimal bleeding.",Cut,Low
+"A person accidentally touched a hot pan and has a painful red area on their hand.",Burn,Moderate
+"Touched an oven rack resulting in localized blistering on index finger.",Burn,Moderate
+"Moderate ankle twist while playing basketball, noticeable swelling and mild limp.",Sprain,Moderate
+"Twisted wrist while catching a falling backpack, moderate pain upon rotation.",Sprain,Moderate
+"Deep kitchen knife cut on thumb with steady bleeding stopped by firm pressure.",Cut,Moderate
+"Laceration on forehead from opening cabinet door, bleeding controlled.",Cut,Moderate
+"Moderate bee sting on arm with localized redness, warmth, and swelling.",Injury,Moderate
+"Second-degree burn on forearm from boiling soup, blister formed.",Burn,Moderate
+"Ankle swollen after tripping over a curb, difficulty bearing weight.",Sprain,Moderate
+"Dog bite puncture on calf with moderate bleeding and localized pain.",Injury,Moderate
+"Punched a wall and now has swelling and bruising over the third knuckle.",Injury,Moderate
+"Stumbled on stairs and twisted left knee, swelling developing.",Sprain,Moderate
+"Hot coffee spilled over inner forearm with blistering and red skin.",Burn,Moderate
+"Hammer hit thumb, nail bed bruised and throbbing with moderate pain.",Injury,Moderate
+"Cut on palm from broken ceramic mug, bleeding slowed after elevation.",Cut,Moderate
+"Bicycle skid scraped knee and elbow, moderate bleeding and embedded gravel.",Injury,Moderate
+"Wrist hyperextended during gym workout, swelling and pain on flexion.",Sprain,Moderate
+"Dropping a heavy textbook on the foot, swollen toe with discoloration.",Injury,Moderate
+"Curling iron burned the side of the neck, blistering and red ring.",Burn,Moderate
+"Tripped over a rug, landed on elbow, tender to touch with moderate swelling.",Injury,Moderate
+"A person fell from a bike and has severe pain and swelling in their arm.",Injury,High
+"A person has a deep wound on their arm and is bleeding heavily.",Bleeding,High
+"Landed awkwardly from a ladder, visible bone deformity and severe leg pain.",Fracture,High
+"Deep laceration across thigh from power tool with continuous heavy blood flow.",Bleeding,High
+"Severe burn covering large portion of forearm and wrist with charring and peeling.",Burn,High
+"Compound fracture of forearm with bone visible through skin and intense agony.",Fracture,High
+"Severe head strike after slipping on icy sidewalk, vomiting and confusion.",Trauma,High
+"Motorcycle collision resulting in severe pelvic pain and inability to move legs.",Trauma,High
+"Deep glass laceration on wrist with spurting bright red arterial blood.",Bleeding,High
+"Fell down a flight of ten stairs, unable to move neck, severe pain.",Trauma,High
+"Large industrial chemical splash across face and neck with burning pain.",Burn,High
+"Heavy iron beam fell across worker foot, crushed toes and severe bleeding.",Trauma,High
+"Chain saw kickback inflicted deep gash on lower leg with rapid blood loss.",Bleeding,High
+"Severe asthma attack with audible wheezing and inability to speak in sentences.",Breathing,High
+"Deep stab wound to upper abdomen, patient pale and bleeding heavily.",Bleeding,High
+"Severe facial trauma with broken jaw and blood obstructing airway partially.",Trauma,High
+"Multiple dog bite wounds tearing muscle tissue in forearm with profuse bleeding.",Bleeding,High
+"High-voltage electrical shock from exposed wire, burns on hands and confusion.",Burn,High
+"Severe blunt trauma to abdomen from car steering wheel with guarding and pain.",Trauma,High
+"Sports collision resulting in dislocated shoulder with severe pain and numbness.",Injury,High
+"A person is experiencing severe difficulty breathing.",Breathing,Critical
+"Patient suddenly collapsed, completely unresponsive and not breathing.",Unconsciousness,Critical
+"Sudden onset of crushing retrosternal chest pain radiating to jaw and left arm.",Breathing,Critical
+"Individual is unconscious and turning blue with gasping agonal respirations.",Unconsciousness,Critical
+"Total airway obstruction from choking on food, patient unable to cough or speak.",Breathing,Critical
+"Severe anaphylactic shock after peanut ingestion with swollen throat and stridor.",Breathing,Critical
+"Massive traumatic chest impact in motor vehicle crash, flail chest and cyanosis.",Trauma,Critical
+"Patient found unresponsive in pool, pulled out without pulse or respiration.",Unconsciousness,Critical
+"Severe stroke symptoms with facial droop, total right-side paralysis, and aphasia.",Unconsciousness,Critical
+"Arterial bleed from severed femoral artery with rapid pooling and unconsciousness.",Bleeding,Critical
+"Sudden respiratory arrest in elderly patient, unresponsive with gray pallor.",Breathing,Critical
+"Severe asthma exacerbation, silent chest on auscultation, lethargic and cyanotic.",Breathing,Critical
+"Pedestrian struck by high-speed truck, unconscious with traumatic brain injury.",Trauma,Critical
+"Unresponsive victim rescued from burning house fire with severe smoke inhalation.",Breathing,Critical
+"Crushed torso under collapsed concrete wall, unresponsive with shallow breathing.",Trauma,Critical
+"Sudden cardiac arrest witnessed during marathon, collapsed with no pulse.",Unconsciousness,Critical
+"Deep neck laceration with catastrophic hemorrhage and loss of consciousness.",Bleeding,Critical
+"Severe allergic reaction with massive tongue swelling and complete airway closure.",Breathing,Critical
+"Unresponsive teenager found unconscious with suspected drug overdose, pinpoint pupils.",Unconsciousness,Critical
+"Severe penetrating chest trauma with sucking chest wound and cyanosis.",Trauma,Critical
+"Minor scrape on knuckles after opening a jammed window.",Injury,Low
+"Fell while ice skating, swollen ankle with severe pain and inability to stand.",Fracture,High
+"Accidental scald on hand from splashing boiling pasta water, moderate blisters.",Burn,Moderate
+"Unconscious passenger trapped in rolled vehicle, labored breathing and unresponsive.",Unconsciousness,Critical
+"Gashed forearm on jagged sheet metal, continuous heavy bleeding requiring tourniquet.",Bleeding,High
+"Elderly person slipped in bathtub, severe hip pain and leg rotated outward.",Fracture,High
+"Paper cut on index finger with tiny drop of blood.",Cut,Low
+"Kitchen grease fire burned entire forearm, severe blistering and blackened skin.",Burn,High
+"Asthmatic child struggling to inhale, ribs retracting, lips turning pale blue.",Breathing,Critical
+"Sprained thumb after catching a fast-moving softball, mild swelling.",Sprain,Moderate
